@@ -1,2 +1,4 @@
 V20:
 http://configure.ergodox-ez.com/keyboard_layouts/qzjlnj/edit
+v21:
+http://configure.ergodox-ez.com/keyboard_layouts/kjlwad/edit
