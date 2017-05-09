@@ -2,3 +2,5 @@ V20:
 http://configure.ergodox-ez.com/keyboard_layouts/qzjlnj/edit
 v21:
 http://configure.ergodox-ez.com/keyboard_layouts/kjlwad/edit
+v22:
+http://configure.ergodox-ez.com/keyboard_layouts/kzdrgw/edit
