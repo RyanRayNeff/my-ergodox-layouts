@@ -4,3 +4,5 @@ v21:
 http://configure.ergodox-ez.com/keyboard_layouts/kjlwad/edit
 v22:
 http://configure.ergodox-ez.com/keyboard_layouts/kzdrgw/edit
+v23: (Mouse speeds added to layer 2)
+http://configure.ergodox-ez.com/keyboard_layouts/qrexdn/edit
