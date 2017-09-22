@@ -15,3 +15,6 @@ http://configure.ergodox-ez.com/keyboard_layouts/qvzexn/edit
 
 v25: Ctrl+F2 macro added for mac menu bars
 http://configure.ergodox-ez.com/keyboard_layouts/qggawd/edit
+
+v26: Mac power, sleep, and wake added on Layer 2
+http://configure.ergodox-ez.com/keyboard_layouts/klgzxr/edit
