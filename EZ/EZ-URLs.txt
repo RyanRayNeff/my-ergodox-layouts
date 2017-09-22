@@ -12,3 +12,6 @@ http://configure.ergodox-ez.com/keyboard_layouts/qrexdn/edit
 
 v24: Command keys added to Homeing keys to support mac
 http://configure.ergodox-ez.com/keyboard_layouts/qvzexn/edit
+
+v25: Ctrl+F2 macro added for mac menu bars
+http://configure.ergodox-ez.com/keyboard_layouts/qggawd/edit
